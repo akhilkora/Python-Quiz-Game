@@ -6,7 +6,6 @@
 #   - Prompt for an answer with choices explicitly shown
 #   - Everytime there is a correct answer, increase score by 1, Show user if it is correct or not.
 #   - In the end, present the score as final result
- 
 # Create a series of questions with options
 questions = ("What is the fastest land animal?:",
              "Who is the richest person alive?:",
